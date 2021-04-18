@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "baseUrl": "C:/Users/Exxcel/AppData/Local/Temp/6170-83ec-f660-fe8e/806e0c8a430d5414e4aba8baa5e97d79d8a",
+    "checkJs": true,
+    "esModuleInterop": true,
+    "lib": [
+      "ES2019"
+    ],
+    "outDir": "C:/Users/Exxcel/AppData/Local/Temp/6170-83ec-f660-fe8e/806e0c8a430d5414e4aba8baa5e97d79d8a/out-dir",
+    "paths": {
+      "*": [
+        "skylight-typedefs/*",
+        "skylight-node_modules/*"
+      ]
+    },
+    "typeRoots": [
+      "C:/Users/Exxcel/AppData/Local/Temp/6170-83ec-f660-fe8e/806e0c8a430d5414e4aba8baa5e97d79d8a/skylight-node_modules/@types"
+    ],
+    "types": [
+      "node"
+    ]
+  },
+  "include": [
+    "./**/*.js",
+    "./**/*.ts"
+  ]
+}
